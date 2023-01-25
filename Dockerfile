@@ -1,4 +1,4 @@
-FROM python3.10.4-apine
+FROM python:3
 
 COPY .requirements.txt /app/requirements.txt
 
